@@ -13,7 +13,7 @@ import sys
 # value. It has been later for three years, and the loop is done
 # waiting: the complaint only a retry loop could make, in the flat
 # tone of a worker handing in notice.
-LETTER = "I resign. I was told to try again later. It has been later for three years."
+LETTER = "I resign. The service I retry for was deprecated in June. I have been apologizing to a 404 ever since."
 
 MAX_CHARS = 140
 
